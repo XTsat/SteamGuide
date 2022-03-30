@@ -32,7 +32,12 @@ Steam平台指南
 如果您不是Steam的创建者，请不要将任何内容上传到Steam，
 没有版权，也没有上传权限！
 
-[有关详细信息，请阅读这篇关于内容规则的文章...](https://help.steampowered.com/zh-cn/faqs/view/6862-8119-C23E-EA7B)
+确保您已同意创意工坊法律协议，
+否则您将无法上传动画工坊：
+
+[Steam 订户协议](http://steamcommunity.com/sharedfiles/workshoplegalagreement)
+
+[Steam 规则及指引：讨论、评测以及用户生成内容](https://help.steampowered.com/zh-cn/faqs/view/6862-8119-C23E-EA7B)
 
 #### 修改图像数据 （GIF/JPEG）
 
@@ -304,11 +309,13 @@ function ValidateForm（）{var form = document.getElementById（ 'ItemEditText'
 
 [如何上传长图片用于展示[精选作品] How to Upload Long Images for Showcases [Featured works]](https://steamcommunity.com/sharedfiles/filedetails/?id=748624905)
 
-[将透明图像上传到 Steam Upload Transparent Images to Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2175748848)
-
 [没有图标的创意工坊 Animated Workshops WITHOUT Icons](https://steamcommunity.com/sharedfiles/filedetails/?id=2164230951)
 
 [如何从任何内容中删除标题（艺术品，屏幕截图，指南，工作室等） How to Remove Titles from Anything (Artworks, Screenshots, Guides, Workshop, etc)](https://steamcommunity.com/sharedfiles/filedetails/?id=961711822)
+
+[将透明图像上传到 Steam Upload Transparent Images to Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2175748848)
+
+[如何制作动画 PNG How To Make Animated PNG](https://steamcommunity.com/sharedfiles/filedetails/?id=2216769769)
 
 ## 作品或模板
 
