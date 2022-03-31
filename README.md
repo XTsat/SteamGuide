@@ -52,9 +52,9 @@ Steam平台指南
 
 ![hexed.it](Photo/hexed.it/hexed_open.png)
 
-![hexed.it](Photo/hexed.it/Modify%20image%20data%20(GIF-JPEG)/hexed_down.png)
+![hexed.it](Photo/hexed.it/Modify%20image%20data%20(GIF-JPEG)/hexed_down_loss.webp)
 
-![hexed.it](Photo/hexed.it/Modify%20image%20data%20(GIF-JPEG)/hexed_edit.png)
+![hexed.it](Photo/hexed.it/Modify%20image%20data%20(GIF-JPEG)/hexed_edit_loss.webp)
 
 ![hexed.it](Photo/hexed.it/hexed_export.png)
 
@@ -89,9 +89,9 @@ Steam平台指南
 
 ![hexed.it](Photo/hexed.it/hexed_open.png)
 
-![hexed.it](Photo/hexed.it/Modify%20image%20data%20(PNG-APNG)/hexed_down.png)
+![hexed.it](Photo/hexed.it/Modify%20image%20data%20(PNG-APNG)/hexed_down_loss.webp)
 
-![hexed.it](Photo/hexed.it/Modify%20image%20data%20(PNG-APNG)/hexed_edit.png)
+![hexed.it](Photo/hexed.it/Modify%20image%20data%20(PNG-APNG)/hexed_edit_loss.webp)
 
 ![hexed.it](Photo/hexed.it/hexed_export.png)
 
