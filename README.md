@@ -19,7 +19,7 @@ Steam平台指南
 
 [我的 Steam 美化展示 🎮](https://steamcommunity.com/id/XTxiaotong)
 
-[个人资料美化教程](Docs/Profile-Beautify.md)
+[个人资料美化教程](Profile-Beautify.md)
 
 ## Steam 浏览器扩展程序推荐
 
