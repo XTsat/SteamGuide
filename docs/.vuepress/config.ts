@@ -26,7 +26,7 @@ export default defineUserConfig({
         rel: 'icon',
         type: 'image/png',
         sizes: '32x32',
-        href: '/logo/favicon.ico',
+        href: '/SteamGuide/logo/favicon.ico',
       },
     ],
   ],
@@ -47,8 +47,8 @@ export default defineUserConfig({
 
   theme: defaultTheme({
     // 在这里进行配置
-    logo: '/logo/Steam 1.svg',
-    logoDark: '/logo/Steam 2.svg',
+    logo: '/logo/Steam-dark.svg',
+    logoDark: '/logo/Steam-white.svg',
 
     repo: 'XTsat/SteamGuide',
 

@@ -1,8 +1,8 @@
 ---
 title: 首页
 home: true
-heroImage: /logo/Steam 1.svg
-heroImageDark: /logo/Steam 2.svg
+heroImage: /logo/Steam-dark.svg
+heroImageDark: /logo/Steam-white.svg
 heroText: Steam 指南
 tagline: Steam 的使用技巧
 actions:
