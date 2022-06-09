@@ -1,8 +1,8 @@
 ---
 title: 首页
 home: true
-heroImage: /logo/Steam 1.svg
-heroImageDark: /logo/Steam 2.svg
+heroImage: /logo/steam-dark.svg
+heroImageDark: /logo/steam-white.svg
 heroText: Steam 指南
 tagline: Steam 的使用技巧
 actions:
@@ -18,6 +18,6 @@ features:
     details: 游戏优化
   - title: 常见问题
     details: 帮助你快速找到问题和解决办法
-footer: <div>© 2022,Built with VuePress By <a href="https://github.com/XTsat">晓同</a></div><div><a href="https://github.com/XTsat/rapid-upload-userscript-doc">如果觉得这个指南有用的话,可以点击这个链接去 Github 点个 Star ⭐</a></div>
+footer: <div>© 2022,Built with VuePress By <a href="https://github.com/XTsat">晓同</a></div><div><a href="https://github.com/XTsat/rapid-upload-userscript-doc">如果觉得这个指南有用的话,可以点击这个链接去 Github 点个 Star ⭐</a></div><br/><div>SteamGuide is a hobby project and is not affiliated with Valve or Steam.</div><div>Steam and the Steam logo are trademarks of Valve Corporation.</div><div>All other trademarks are property of their respective owners.</div>
 footerHtml: true
 ---
