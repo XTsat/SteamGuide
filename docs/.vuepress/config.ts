@@ -47,8 +47,8 @@ export default defineUserConfig({
 
   theme: defaultTheme({
     // 在这里进行配置
-    logo: '/logo/Steam-dark.svg',
-    logoDark: '/logo/Steam-white.svg',
+    logo: '/logo/steam-dark.svg',
+    logoDark: '/logo/steam-white.svg',
 
     repo: 'XTsat/SteamGuide',
 
