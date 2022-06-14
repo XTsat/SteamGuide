@@ -11,6 +11,14 @@ export const zh: SidebarConfig = {
       ]
     },
     {
+      text: 'Steam 云',
+      collapsible: false,
+      children: [
+        '/document/Steam Cloud/云存档.md',
+        '/document/Steam Cloud/管理云存档.md',
+      ]
+    },
+    {
       text: '个人资料美化',
       collapsible: false,
       children: [

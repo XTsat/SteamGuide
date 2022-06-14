@@ -6,6 +6,9 @@ heroImageDark: /logo/steam-white.svg
 heroText: Steam 指南
 tagline: Steam 的使用技巧
 actions:
+  - text: 云存档管理
+    link: /document/Steam Cloud/管理云存档.md
+    type: secondary
   - text: 个人资料美化
     link: /document/Profile/展柜展示.md
     type: primary
